@@ -9,5 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farhadmpr&show_icons=true) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farhadmpr&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadmpr)](https://github.com/farhadmpr/github-readme-stats)
